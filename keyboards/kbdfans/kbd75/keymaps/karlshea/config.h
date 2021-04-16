@@ -16,7 +16,7 @@
   //#undef BACKLIGHT_PIN
   //#define BACKLIGHT_PINS { B2, B6 }
 
-  #define BACKLIGHT_LEVELS 10
+  #define BACKLIGHT_LEVELS 20
 #endif
 
 // Disable rgb animations
