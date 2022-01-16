@@ -3,7 +3,7 @@
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT_ortho_3x3(
         MO(1),   KC_MPLY, BL_STEP,
-        KC_VOLD, KC_MUTE, KC_VOLU,
+        KC_MPRV, KC_MUTE, KC_MNXT,
         KC_KP_1, KC_KP_2, KC_KP_3
     ),
 
